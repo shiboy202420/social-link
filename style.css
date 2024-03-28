@@ -1,0 +1,26 @@
+p:hover{
+    background-color: red;
+}
+.time:hover{
+    background-color: aqua;
+}
+.time2:hover{
+    background-color: aqua;
+}
+.time3:hover{
+    background-color: aqua;
+}
+.time{
+    background-color: azure;
+    color: blue
+}
+body{
+    background-color: burlywood;
+}
+.time{
+    padding: 20px;
+    border: 15px solid green;
+    margin: 20px;
+    height: 3500;
+    width: 800px;
+}
